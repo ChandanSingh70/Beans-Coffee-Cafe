@@ -42,4 +42,7 @@ For any inquiries or feedback, reach out via:
 
 📧 Email: chandansingh701566@gmial.com
 
+**This site live at**
+Link:- https://chandansingh70.github.io/Beans-Coffee-Cafe/
+
 **Enjoy your coffee experience with Beans Cafe!**
